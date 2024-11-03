@@ -1,0 +1,6 @@
+﻿  Juego.cpp
+  SerpientesyEscaleras.cpp
+C:\Users\Andryu\Desktop\Universidad Rafael Landívar\Segundo Semestre\Programación Avanzada (Práctica)\SerpientesyEscaleras\SerpientesyEscaleras\SerpientesyEscaleras.cpp(26,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Andryu\Desktop\Universidad Rafael Landívar\Segundo Semestre\Programación Avanzada (Práctica)\SerpientesyEscaleras\SerpientesyEscaleras\SerpientesyEscaleras.cpp(33,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  SerpientesyEscaleras.vcxproj -> C:\Users\Andryu\Desktop\Universidad Rafael Landívar\Segundo Semestre\Programación Avanzada (Práctica)\SerpientesyEscaleras\x64\Debug\SerpientesyEscaleras.exe
